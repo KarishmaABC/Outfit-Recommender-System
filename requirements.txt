@@ -6,6 +6,5 @@ pandas
 matplotlib
 seaborn
 wordcloud
-open-clip-torch
 requests
 torch
