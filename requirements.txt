@@ -8,3 +8,4 @@ seaborn
 wordcloud
 requests
 torch
+scikit-learn
