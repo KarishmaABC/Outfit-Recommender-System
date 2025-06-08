@@ -1,0 +1,10 @@
+streamlit
+tensorflow
+pillow
+numpy
+pandas
+matplotlib
+seaborn
+wordcloud
+requests
+torch
